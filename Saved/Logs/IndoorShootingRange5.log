@@ -3088,3 +3088,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.26-05.28.21:316][930]LogFileHelpers: Saving map 'Demo' took 0.116
 [2021.12.26-05.28.21:330][930]AssetCheck: New page: Asset Save: Demo
 [2021.12.26-05.28.21:331][930]LogContentValidation: Display: Validating World /Game/Indoor_Shooting_Range/Map/Demo.Demo
+[2021.12.26-05.30.21:742][448]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/ResultsBPWidget95D2DCED493B585208EEF4BEE1937E21.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/ResultsBPWidget.uasset'
+[2021.12.26-05.30.21:761][448]AssetCheck: New page: Asset Save: ResultsBPWidget
+[2021.12.26-05.30.21:761][448]LogContentValidation: Display: Validating WidgetBlueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/ResultsBPWidget.ResultsBPWidget
+[2021.12.26-05.31.10:265][ 76]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/FirstPersonCharacter60675FB54E2FF7DF2F8179BF92A11AC3.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.12.26-05.31.10:285][ 76]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.12.26-05.31.10:285][ 76]LogContentValidation: Display: Validating Blueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.12.26-05.31.19:502][323]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2021.12.26-05.31.23:548][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
