@@ -7349,3 +7349,1166 @@ Make sure 'ResultsBPWidget_C' has been compiled for  Ajustar resultsBPWidget
 [2021.12.26-20.45.35:060][899]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/ResultsBPWidget4D06358E420FBC59A79A76BF4F5693CF.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/ResultsBPWidget.uasset'
 [2021.12.26-20.45.35:073][899]AssetCheck: New page: Asset Save: ResultsBPWidget
 [2021.12.26-20.45.35:074][899]LogContentValidation: Display: Validating WidgetBlueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/ResultsBPWidget.ResultsBPWidget
+[2021.12.26-20.49.05:961][441]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/ResultsBPWidgetB392049A462A9B11232A1EA07F194A58.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/ResultsBPWidget.uasset'
+[2021.12.26-20.49.05:978][441]AssetCheck: New page: Asset Save: ResultsBPWidget
+[2021.12.26-20.49.05:978][441]LogContentValidation: Display: Validating WidgetBlueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/ResultsBPWidget.ResultsBPWidget
+[2021.12.26-20.49.06:880][476]BlueprintLog: New page: Compilar ResultsBPWidget
+[2021.12.26-20.49.06:958][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.12.26-20.49.07:827][509]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.26-20.49.07:839][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.26-20.49.07:839][509]PIE: New page: Sesión PIE (reproducción en el editor): Demo (26 dic. 2021 10:49:07)
+[2021.12.26-20.49.07:839][509]LogPlayLevel: Creating play world package: /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.26-20.49.07:867][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027524s)
+[2021.12.26-20.49.07:868][509]LogAIModule: Creating AISystem for world Demo
+[2021.12.26-20.49.07:869][509]LogPlayLevel: PIE: World Init took: (0.001437s)
+[2021.12.26-20.49.07:869][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Indoor_Shooting_Range/Map/Demo.Demo to /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo (0.029117s)
+[2021.12.26-20.49.07:906][509]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.12.26-20.49.07:907][509]LogAudio: Display: Creating Audio Device:                 Id: 89, Scope: Unique, Realtime: True
+[2021.12.26-20.49.07:907][509]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.26-20.49.07:907][509]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.26-20.49.07:907][509]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.26-20.49.07:907][509]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.26-20.49.07:907][509]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.26-20.49.07:907][509]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.26-20.49.07:907][509]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.26-20.49.07:907][509]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.26-20.49.07:908][509]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.26-20.49.07:908][509]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.26-20.49.07:908][509]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.26-20.49.07:908][509]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.26-20.49.07:909][509]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.26-20.49.07:909][509]LogAudioMixer: Display: 1: FrontRight
+[2021.12.26-20.49.07:922][509]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.26-20.49.07:922][509]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.26-20.49.07:922][509]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.26-20.49.07:922][509]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.26-20.49.07:922][509]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.26-20.49.07:922][509]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.26-20.49.07:923][509]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.26-20.49.07:923][509]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.26-20.49.07:923][509]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.26-20.49.07:923][509]LogInit: FAudioDevice initialized.
+[2021.12.26-20.49.07:923][509]LogAudio: Display: Audio Device (ID: 89) registered with world 'Demo'.
+[2021.12.26-20.49.07:968][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.26-20.49.07:969][509]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.26-20.49.07:987][509]LogWorld: Bringing World /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2021.12.26-15.49.07
+[2021.12.26-20.49.07:987][509]LogGameSession: Error: Player State class is invalid for game mode: FirstPersonGameMode_C_0!
+[2021.12.26-20.49.07:987][509]LogWorld: Bringing up level for play took: 0.017960
+[2021.12.26-20.49.07:987][509]LogOnline: OSS: Creating online subsystem instance for: :Context_99
+[2021.12.26-20.49.07:989][509]LogPlayerController: AController::InitPlayerState: the PlayerStateClass of game mode FirstPersonGameMode_C_0 is null, falling back to APlayerState.
+[2021.12.26-20.49.07:990][509]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Pulsa R para seleccionar
+[2021.12.26-20.49.07:993][509]PIE: El servidor ha iniciado la sesión
+[2021.12.26-20.49.07:995][509]PIE: Play in editor total start time 0.156 seconds.
+[2021.12.26-20.49.12:617][611]LogBlueprintUserMessages: [ResultsBPWidget_C_0] 4
+[2021.12.26-20.49.17:876][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.26-20.49.17:877][731]LogWorld: BeginTearingDown for /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.26-20.49.17:877][731]LogSlate: Window 'IndoorShootingRange5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.26-20.49.17:947][731]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2021.12.26-20.49.17:952][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.26-20.49.17:968][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.26-20.49.18:010][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.26-20.49.18:047][731]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.26-20.49.18:047][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.26-20.49.18:048][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.26-20.49.18:060][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.12.26-20.49.18:115][732]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2021.12.26-20.49.21:851][850]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/ResultsBPWidget48D5E6B14AFBFFA01776FEAAC74DBF1D.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/ResultsBPWidget.uasset'
+[2021.12.26-20.49.21:864][850]AssetCheck: New page: Asset Save: ResultsBPWidget
+[2021.12.26-20.49.21:864][850]LogContentValidation: Display: Validating WidgetBlueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/ResultsBPWidget.ResultsBPWidget
+[2021.12.26-20.49.22:819][884]BlueprintLog: New page: Compilar ResultsBPWidget
+[2021.12.26-20.49.22:886][884]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.12.26-20.49.24:435][939]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.26-20.49.24:444][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.26-20.49.24:444][939]PIE: New page: Sesión PIE (reproducción en el editor): Demo (26 dic. 2021 10:49:24)
+[2021.12.26-20.49.24:444][939]LogPlayLevel: Creating play world package: /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.26-20.49.24:470][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026187s)
+[2021.12.26-20.49.24:471][939]LogAIModule: Creating AISystem for world Demo
+[2021.12.26-20.49.24:471][939]LogPlayLevel: PIE: World Init took: (0.001311s)
+[2021.12.26-20.49.24:472][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Indoor_Shooting_Range/Map/Demo.Demo to /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo (0.027672s)
+[2021.12.26-20.49.24:507][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.12.26-20.49.24:509][939]LogAudio: Display: Creating Audio Device:                 Id: 90, Scope: Unique, Realtime: True
+[2021.12.26-20.49.24:509][939]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.26-20.49.24:509][939]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.26-20.49.24:509][939]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.26-20.49.24:509][939]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.26-20.49.24:509][939]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.26-20.49.24:509][939]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.26-20.49.24:509][939]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.26-20.49.24:509][939]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.26-20.49.24:510][939]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.26-20.49.24:510][939]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.26-20.49.24:510][939]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.26-20.49.24:510][939]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.26-20.49.24:511][939]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.26-20.49.24:511][939]LogAudioMixer: Display: 1: FrontRight
+[2021.12.26-20.49.24:523][939]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.26-20.49.24:524][939]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.26-20.49.24:524][939]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.26-20.49.24:524][939]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.26-20.49.24:524][939]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.26-20.49.24:524][939]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.26-20.49.24:524][939]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.26-20.49.24:525][939]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.26-20.49.24:525][939]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.26-20.49.24:525][939]LogInit: FAudioDevice initialized.
+[2021.12.26-20.49.24:525][939]LogAudio: Display: Audio Device (ID: 90) registered with world 'Demo'.
+[2021.12.26-20.49.24:569][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.26-20.49.24:570][939]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.26-20.49.24:589][939]LogWorld: Bringing World /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2021.12.26-15.49.24
+[2021.12.26-20.49.24:589][939]LogGameSession: Error: Player State class is invalid for game mode: FirstPersonGameMode_C_0!
+[2021.12.26-20.49.24:589][939]LogWorld: Bringing up level for play took: 0.018541
+[2021.12.26-20.49.24:589][939]LogOnline: OSS: Creating online subsystem instance for: :Context_100
+[2021.12.26-20.49.24:590][939]LogPlayerController: AController::InitPlayerState: the PlayerStateClass of game mode FirstPersonGameMode_C_0 is null, falling back to APlayerState.
+[2021.12.26-20.49.24:592][939]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Pulsa R para seleccionar
+[2021.12.26-20.49.24:594][939]PIE: El servidor ha iniciado la sesión
+[2021.12.26-20.49.24:597][939]PIE: Play in editor total start time 0.154 seconds.
+[2021.12.26-20.49.27:072][997]LogBlueprintUserMessages: [ResultsBPWidget_C_0] 0
+[2021.12.26-20.49.30:672][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.26-20.49.30:673][ 81]LogWorld: BeginTearingDown for /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.26-20.49.30:673][ 81]LogSlate: Window 'IndoorShootingRange5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.26-20.49.30:740][ 81]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2021.12.26-20.49.30:746][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.26-20.49.30:769][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.26-20.49.30:807][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.26-20.49.30:847][ 81]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.26-20.49.30:847][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.26-20.49.30:848][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.26-20.49.30:857][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.12.26-20.49.30:934][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2021.12.26-20.55.46:431][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.12.26-20.55.46:502][ 23]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/Demo_Auto532AFA41F47419D25F193B68C3D7848CD.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/Autosaves/Game/Indoor_Shooting_Range/Map/Demo_Auto5.umap'
+[2021.12.26-20.55.46:505][ 23]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Indoor_Shooting_Range/Map/Demo' took 0.114
+[2021.12.26-20.55.46:505][ 23]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.114
+[2021.12.26-20.57.14:101][119]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.26-20.57.14:110][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.26-20.57.14:110][119]PIE: New page: Sesión PIE (reproducción en el editor): Demo (26 dic. 2021 10:57:14)
+[2021.12.26-20.57.14:110][119]LogPlayLevel: Creating play world package: /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.26-20.57.14:133][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023585s)
+[2021.12.26-20.57.14:135][119]LogAIModule: Creating AISystem for world Demo
+[2021.12.26-20.57.14:135][119]LogPlayLevel: PIE: World Init took: (0.001432s)
+[2021.12.26-20.57.14:135][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Indoor_Shooting_Range/Map/Demo.Demo to /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo (0.025203s)
+[2021.12.26-20.57.14:170][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.12.26-20.57.14:173][119]LogAudio: Display: Creating Audio Device:                 Id: 91, Scope: Unique, Realtime: True
+[2021.12.26-20.57.14:173][119]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.26-20.57.14:173][119]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.26-20.57.14:173][119]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.26-20.57.14:173][119]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.26-20.57.14:173][119]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.26-20.57.14:173][119]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.26-20.57.14:173][119]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.26-20.57.14:173][119]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.26-20.57.14:173][119]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.26-20.57.14:173][119]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.26-20.57.14:173][119]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.26-20.57.14:173][119]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.26-20.57.14:175][119]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.26-20.57.14:175][119]LogAudioMixer: Display: 1: FrontRight
+[2021.12.26-20.57.14:188][119]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.26-20.57.14:189][119]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.26-20.57.14:189][119]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.26-20.57.14:189][119]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.26-20.57.14:189][119]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.26-20.57.14:189][119]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.26-20.57.14:190][119]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.26-20.57.14:191][119]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.26-20.57.14:191][119]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.26-20.57.14:191][119]LogInit: FAudioDevice initialized.
+[2021.12.26-20.57.14:191][119]LogAudio: Display: Audio Device (ID: 91) registered with world 'Demo'.
+[2021.12.26-20.57.14:243][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.26-20.57.14:244][119]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.26-20.57.14:262][119]LogWorld: Bringing World /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2021.12.26-15.57.14
+[2021.12.26-20.57.14:262][119]LogGameSession: Error: Player State class is invalid for game mode: FirstPersonGameMode_C_0!
+[2021.12.26-20.57.14:262][119]LogWorld: Bringing up level for play took: 0.017980
+[2021.12.26-20.57.14:263][119]LogOnline: OSS: Creating online subsystem instance for: :Context_101
+[2021.12.26-20.57.14:264][119]LogPlayerController: AController::InitPlayerState: the PlayerStateClass of game mode FirstPersonGameMode_C_0 is null, falling back to APlayerState.
+[2021.12.26-20.57.14:266][119]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Pulsa R para seleccionar
+[2021.12.26-20.57.14:281][119]PIE: El servidor ha iniciado la sesión
+[2021.12.26-20.57.14:283][119]PIE: Play in editor total start time 0.174 seconds.
+[2021.12.26-20.57.40:876][615]LogBlueprintUserMessages: [ResultsBPWidget_C_0] 4
+[2021.12.26-20.57.54:297][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.26-20.57.54:297][856]LogWorld: BeginTearingDown for /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.26-20.57.54:298][856]LogSlate: Window 'IndoorShootingRange5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.26-20.57.54:399][856]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2021.12.26-20.57.54:405][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.26-20.57.54:469][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.26-20.57.54:513][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.26-20.57.54:548][856]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.26-20.57.54:549][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.26-20.57.54:550][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.26-20.57.54:562][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.12.26-20.57.54:607][857]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2021.12.26-20.58.09:522][312]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.26-20.58.09:531][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.26-20.58.09:531][312]PIE: New page: Sesión PIE (reproducción en el editor): Demo (26 dic. 2021 10:58:09)
+[2021.12.26-20.58.09:531][312]LogPlayLevel: Creating play world package: /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.26-20.58.09:558][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026941s)
+[2021.12.26-20.58.09:559][312]LogAIModule: Creating AISystem for world Demo
+[2021.12.26-20.58.09:559][312]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2021.12.26-20.58.09:559][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Indoor_Shooting_Range/Map/Demo.Demo to /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo (0.028349s)
+[2021.12.26-20.58.09:595][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.12.26-20.58.09:598][312]LogAudio: Display: Creating Audio Device:                 Id: 92, Scope: Unique, Realtime: True
+[2021.12.26-20.58.09:598][312]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.26-20.58.09:598][312]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.26-20.58.09:598][312]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.26-20.58.09:598][312]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.26-20.58.09:598][312]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.26-20.58.09:598][312]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.26-20.58.09:598][312]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.26-20.58.09:598][312]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.26-20.58.09:599][312]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.26-20.58.09:599][312]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.26-20.58.09:599][312]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.26-20.58.09:599][312]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.26-20.58.09:601][312]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.26-20.58.09:601][312]LogAudioMixer: Display: 1: FrontRight
+[2021.12.26-20.58.09:613][312]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.26-20.58.09:613][312]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.26-20.58.09:613][312]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.26-20.58.09:613][312]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.26-20.58.09:614][312]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.26-20.58.09:614][312]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.26-20.58.09:614][312]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.26-20.58.09:615][312]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.26-20.58.09:615][312]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.26-20.58.09:615][312]LogInit: FAudioDevice initialized.
+[2021.12.26-20.58.09:615][312]LogAudio: Display: Audio Device (ID: 92) registered with world 'Demo'.
+[2021.12.26-20.58.09:645][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.26-20.58.09:645][312]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.26-20.58.09:663][312]LogWorld: Bringing World /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2021.12.26-15.58.09
+[2021.12.26-20.58.09:663][312]LogGameSession: Error: Player State class is invalid for game mode: FirstPersonGameMode_C_0!
+[2021.12.26-20.58.09:663][312]LogWorld: Bringing up level for play took: 0.017490
+[2021.12.26-20.58.09:663][312]LogOnline: OSS: Creating online subsystem instance for: :Context_102
+[2021.12.26-20.58.09:665][312]LogPlayerController: AController::InitPlayerState: the PlayerStateClass of game mode FirstPersonGameMode_C_0 is null, falling back to APlayerState.
+[2021.12.26-20.58.09:666][312]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Pulsa R para seleccionar
+[2021.12.26-20.58.09:669][312]PIE: El servidor ha iniciado la sesión
+[2021.12.26-20.58.09:670][312]PIE: Play in editor total start time 0.14 seconds.
+[2021.12.26-20.59.46:278][157]LogSlate: Window 'IndoorShootingRange5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.26-20.59.46:379][157]LogWorld: BeginTearingDown for /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.26-20.59.46:380][157]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2021.12.26-20.59.46:388][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.26-20.59.46:405][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.26-20.59.46:447][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.26-20.59.46:485][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.26-20.59.46:486][157]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.26-20.59.46:498][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.12.26-20.59.46:546][158]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2021.12.26-21.02.59:531][319]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/PauseResumeBPWidget985FF8CE4B2F9FE9595D4A845D4262B5.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/PauseResumeBPWidget.uasset'
+[2021.12.26-21.02.59:606][319]AssetCheck: New page: Asset Save: PauseResumeBPWidget
+[2021.12.26-21.02.59:606][319]LogContentValidation: Display: Validating WidgetBlueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/PauseResumeBPWidget.PauseResumeBPWidget
+[2021.12.26-21.03.00:153][333]BlueprintLog: New page: Compilar PauseResumeBPWidget
+[2021.12.26-21.03.00:253][333]LogBlueprint: Error: [AssetLog] C:\Users\Administrador\Documents\Unreal Projects\IndoorShootingRange5\Content\Indoor_Shooting_Range\Map\FirstPersonBP\Blueprints\PauseResumeBPWidget.uasset: [Compiler] This blueprint (self) is not a GameMode, therefore ' Meta ' must have a connection.
+[2021.12.26-21.03.00:309][333]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.12.26-21.04.11:947][224]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/PauseResumeBPWidget8303F67D4FA56C5EB0EA378603E4E3AC.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/PauseResumeBPWidget.uasset'
+[2021.12.26-21.04.11:971][224]AssetCheck: New page: Asset Save: PauseResumeBPWidget
+[2021.12.26-21.04.11:971][224]LogContentValidation: Display: Validating WidgetBlueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/PauseResumeBPWidget.PauseResumeBPWidget
+[2021.12.26-21.04.12:683][250]BlueprintLog: New page: Compilar PauseResumeBPWidget
+[2021.12.26-21.04.12:792][250]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.12.26-21.06.12:005][785]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/PauseResumeBPWidget67AA8EF9499D505C35458493AA8E55B2.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/PauseResumeBPWidget.uasset'
+[2021.12.26-21.06.12:022][785]AssetCheck: New page: Asset Save: PauseResumeBPWidget
+[2021.12.26-21.06.12:022][785]LogContentValidation: Display: Validating WidgetBlueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/PauseResumeBPWidget.PauseResumeBPWidget
+[2021.12.26-21.06.13:162][828]BlueprintLog: New page: Compilar PauseResumeBPWidget
+[2021.12.26-21.06.14:888][828]LogBlueprint: Warning: [AssetLog] C:\Users\Administrador\Documents\Unreal Projects\IndoorShootingRange5\Content\Indoor_Shooting_Range\Map\FirstPersonBP\Blueprints\PauseResumeBPWidget.uasset: [Compiler] Proyectar a GameMode  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.12.26-21.06.14:888][828]LogBlueprint: Error: [AssetLog] C:\Users\Administrador\Documents\Unreal Projects\IndoorShootingRange5\Content\Indoor_Shooting_Range\Map\FirstPersonBP\Blueprints\PauseResumeBPWidget.uasset: [Compiler] This blueprint (self) is not a GameMode, therefore ' Meta ' must have a connection.
+[2021.12.26-21.06.14:943][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.12.26-21.06.55:552][389]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/PauseResumeBPWidgetCF4009E3495B8A8C647E538C28B1FA24.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/PauseResumeBPWidget.uasset'
+[2021.12.26-21.06.55:568][389]AssetCheck: New page: Asset Save: PauseResumeBPWidget
+[2021.12.26-21.06.55:568][389]LogContentValidation: Display: Validating WidgetBlueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/PauseResumeBPWidget.PauseResumeBPWidget
+[2021.12.26-21.06.56:723][433]BlueprintLog: New page: Compilar PauseResumeBPWidget
+[2021.12.26-21.06.56:787][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.12.26-21.07.03:039][651]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.26-21.07.03:049][651]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.12.26-21.07.03:052][651]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2021.12.26-21.07.03:227][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.12.26-21.07.03:228][651]LogPlayLevel: PlayLevel: Blueprint regeneration took 178 ms (1 blueprints)
+[2021.12.26-21.07.03:228][651]PIE: New page: Sesión PIE (reproducción en el editor): Demo (26 dic. 2021 11:07:03)
+[2021.12.26-21.07.03:229][651]LogPlayLevel: Creating play world package: /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.26-21.07.03:256][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026792s)
+[2021.12.26-21.07.03:257][651]LogAIModule: Creating AISystem for world Demo
+[2021.12.26-21.07.03:257][651]LogPlayLevel: PIE: World Init took: (0.001345s)
+[2021.12.26-21.07.03:257][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Indoor_Shooting_Range/Map/Demo.Demo to /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo (0.028306s)
+[2021.12.26-21.07.03:294][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.12.26-21.07.03:295][651]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2021.12.26-21.07.03:295][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.26-21.07.03:295][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.26-21.07.03:295][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.26-21.07.03:295][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.26-21.07.03:295][651]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.26-21.07.03:295][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.26-21.07.03:295][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.26-21.07.03:295][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.26-21.07.03:295][651]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.26-21.07.03:295][651]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.26-21.07.03:295][651]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.26-21.07.03:295][651]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.26-21.07.03:297][651]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.26-21.07.03:297][651]LogAudioMixer: Display: 1: FrontRight
+[2021.12.26-21.07.03:310][651]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.26-21.07.03:310][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.26-21.07.03:310][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.26-21.07.03:310][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.26-21.07.03:311][651]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.26-21.07.03:311][651]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.26-21.07.03:311][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.26-21.07.03:312][651]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.26-21.07.03:312][651]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.26-21.07.03:312][651]LogInit: FAudioDevice initialized.
+[2021.12.26-21.07.03:312][651]LogAudio: Display: Audio Device (ID: 93) registered with world 'Demo'.
+[2021.12.26-21.07.03:364][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.26-21.07.03:364][651]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.26-21.07.03:383][651]LogWorld: Bringing World /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2021.12.26-16.07.03
+[2021.12.26-21.07.03:383][651]LogGameSession: Error: Player State class is invalid for game mode: FirstPersonGameMode_C_0!
+[2021.12.26-21.07.03:383][651]LogWorld: Bringing up level for play took: 0.018287
+[2021.12.26-21.07.03:383][651]LogOnline: OSS: Creating online subsystem instance for: :Context_103
+[2021.12.26-21.07.03:385][651]LogPlayerController: AController::InitPlayerState: the PlayerStateClass of game mode FirstPersonGameMode_C_0 is null, falling back to APlayerState.
+[2021.12.26-21.07.03:386][651]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Pulsa R para seleccionar
+[2021.12.26-21.07.03:389][651]PIE: El servidor ha iniciado la sesión
+[2021.12.26-21.07.03:390][651]PIE: Play in editor total start time 0.342 seconds.
+[2021.12.26-21.07.26:714][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.26-21.07.26:714][147]LogWorld: BeginTearingDown for /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.26-21.07.26:714][147]LogSlate: Window 'IndoorShootingRange5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.26-21.07.26:721][147]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2021.12.26-21.07.26:724][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.26-21.07.26:815][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.26-21.07.26:854][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.26-21.07.26:894][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.26-21.07.26:895][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.26-21.07.26:904][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.12.26-21.07.26:955][148]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2021.12.26-21.08.10:835][918]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/PauseResumeBPWidgetE6BD53694B66833C057E869C2BA91A9B.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/PauseResumeBPWidget.uasset'
+[2021.12.26-21.08.10:858][918]AssetCheck: New page: Asset Save: PauseResumeBPWidget
+[2021.12.26-21.08.10:858][918]LogContentValidation: Display: Validating WidgetBlueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/PauseResumeBPWidget.PauseResumeBPWidget
+[2021.12.26-21.08.11:589][946]BlueprintLog: New page: Compilar PauseResumeBPWidget
+[2021.12.26-21.08.11:652][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.12.26-21.08.36:895][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.12.26-21.08.36:973][ 35]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/Demo_Auto6E1D71FCA4ABA1AE334C57E895E2FEC04.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/Autosaves/Game/Indoor_Shooting_Range/Map/Demo_Auto6.umap'
+[2021.12.26-21.08.37:002][ 35]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Indoor_Shooting_Range/Map/Demo' took 0.145
+[2021.12.26-21.08.37:002][ 35]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.145
+[2021.12.26-21.08.37:003][ 35]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/FirstPersonCharacter] ([2] browsable assets)...
+[2021.12.26-21.08.37:069][ 35]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2021.12.26-21.08.37:070][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2021.12.26-21.08.37:168][ 35]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/FirstPersonCharacter_Auto6C724E3B6412E60ED7609F6A9E5207F4E.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/Autosaves/Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto6.uasset'
+[2021.12.26-21.08.37:175][ 35]LogFileHelpers: Auto-saving content packages took 0.173
+[2021.12.26-21.32.52:438][683]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.12.26-21.32.52:884][683]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.12.26-22.51.44:579][315]LogHttp: Warning: 0000015E3F49B200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA8D88495-49B9-9F74-C539-FFB2FEAF67AB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=cdfab68c41e4f1e0db155eba64119f73%7C982dba3afabb4774814e05da18d40d83%7C4b42fbee-d943-44f5-9fea-6a07f98709e4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.12.26-22.51.44:579][315]LogHttp: Warning: 0000015E3F49B200: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.12.26-22.51.44:579][315]LogHttp: Warning: 0000015E3F49B200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x15c718b7790 [can pipeline])
+[2021.12.26-22.51.44:579][315]LogHttp: Warning: 0000015E3F49B200: libcurl info message cache 1 (Re-using existing connection! (#21) with host datarouter.ol.epicgames.com)
+[2021.12.26-22.51.44:579][315]LogHttp: Warning: 0000015E3F49B200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.1.145.15) port 443 (#21))
+[2021.12.26-22.51.44:579][315]LogHttp: Warning: 0000015E3F49B200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.12.26-22.51.44:579][315]LogHttp: Warning: 0000015E3F49B200: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.12.26-22.51.44:579][315]LogHttp: Warning: 0000015E3F49B200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.12.26-22.51.44:579][315]LogHttp: Warning: 0000015E3F49B200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.12.26-22.51.44:579][315]LogHttp: Warning: 0000015E3F49B200: libcurl info message cache 7 (Closing connection 21)
+[2021.12.26-22.51.44:580][315]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA8D88495-49B9-9F74-C539-FFB2FEAF67AB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=cdfab68c41e4f1e0db155eba64119f73%7C982dba3afabb4774814e05da18d40d83%7C4b42fbee-d943-44f5-9fea-6a07f98709e4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.12.26-23.09.16:470][450]LogHttp: Warning: 0000015F0D490800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA8D88495-49B9-9F74-C539-FFB2FEAF67AB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=cdfab68c41e4f1e0db155eba64119f73%7C982dba3afabb4774814e05da18d40d83%7C4b42fbee-d943-44f5-9fea-6a07f98709e4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.12.26-23.09.16:471][450]LogHttp: Warning: 0000015F0D490800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.12.26-23.09.16:471][450]LogHttp: Warning: 0000015F0D490800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x15c718b65c0 [can pipeline])
+[2021.12.26-23.09.16:471][450]LogHttp: Warning: 0000015F0D490800: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2021.12.26-23.09.16:471][450]LogHttp: Warning: 0000015F0D490800: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.12.26-23.09.16:471][450]LogHttp: Warning: 0000015F0D490800: libcurl info message cache 3 (Closing connection 23)
+[2021.12.26-23.09.16:804][451]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA8D88495-49B9-9F74-C539-FFB2FEAF67AB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=cdfab68c41e4f1e0db155eba64119f73%7C982dba3afabb4774814e05da18d40d83%7C4b42fbee-d943-44f5-9fea-6a07f98709e4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.12.26-23.09.22:162][467]LogHttp: Warning: 0000015F0D492400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA8D88495-49B9-9F74-C539-FFB2FEAF67AB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=cdfab68c41e4f1e0db155eba64119f73%7C982dba3afabb4774814e05da18d40d83%7C4b42fbee-d943-44f5-9fea-6a07f98709e4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.12.26-23.09.22:162][467]LogHttp: Warning: 0000015F0D492400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.12.26-23.09.22:162][467]LogHttp: Warning: 0000015F0D492400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x15c718b65c0 [can pipeline])
+[2021.12.26-23.09.22:163][467]LogHttp: Warning: 0000015F0D492400: libcurl info message cache 1 (Re-using existing connection! (#22) with host datarouter.ol.epicgames.com)
+[2021.12.26-23.09.22:163][467]LogHttp: Warning: 0000015F0D492400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.54.106.216) port 443 (#22))
+[2021.12.26-23.09.22:163][467]LogHttp: Warning: 0000015F0D492400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.12.26-23.09.22:163][467]LogHttp: Warning: 0000015F0D492400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.12.26-23.09.22:163][467]LogHttp: Warning: 0000015F0D492400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.12.26-23.09.22:163][467]LogHttp: Warning: 0000015F0D492400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.12.26-23.09.22:163][467]LogHttp: Warning: 0000015F0D492400: libcurl info message cache 7 (Closing connection 22)
+[2021.12.26-23.09.22:163][467]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA8D88495-49B9-9F74-C539-FFB2FEAF67AB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=cdfab68c41e4f1e0db155eba64119f73%7C982dba3afabb4774814e05da18d40d83%7C4b42fbee-d943-44f5-9fea-6a07f98709e4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.12.26-23.14.21:394][355]LogHttp: Warning: 0000015E0ABDC800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA8D88495-49B9-9F74-C539-FFB2FEAF67AB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=cdfab68c41e4f1e0db155eba64119f73%7C982dba3afabb4774814e05da18d40d83%7C4b42fbee-d943-44f5-9fea-6a07f98709e4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.12.26-23.14.21:395][355]LogHttp: Warning: 0000015E0ABDC800: request failed, libcurl error: 0 (No error)
+[2021.12.26-23.14.21:395][355]LogHttp: Warning: 0000015E0ABDC800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x15c718b7d00 [can pipeline])
+[2021.12.26-23.14.21:395][355]LogHttp: Warning: 0000015E0ABDC800: libcurl info message cache 1 (Re-using existing connection! (#24) with host datarouter.ol.epicgames.com)
+[2021.12.26-23.14.21:395][355]LogHttp: Warning: 0000015E0ABDC800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.70.82.234) port 443 (#24))
+[2021.12.26-23.14.21:395][355]LogHttp: Warning: 0000015E0ABDC800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.12.26-23.14.21:395][355]LogHttp: Warning: 0000015E0ABDC800: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2021.12.26-23.14.21:395][355]LogHttp: Warning: 0000015E0ABDC800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.12.26-23.14.21:395][355]LogHttp: Warning: 0000015E0ABDC800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.12.26-23.14.21:395][355]LogHttp: Warning: 0000015E0ABDC800: libcurl info message cache 7 (Closing connection 24)
+[2021.12.26-23.14.21:395][355]LogHttp: Warning: 0000015E0ABDC800: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.12.26-23.14.21:395][355]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA8D88495-49B9-9F74-C539-FFB2FEAF67AB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=cdfab68c41e4f1e0db155eba64119f73%7C982dba3afabb4774814e05da18d40d83%7C4b42fbee-d943-44f5-9fea-6a07f98709e4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.12.27-00.24.22:468][945]LogEditorTransaction: Undo Editar Regla de tamaño
+[2021.12.27-00.25.16:346][963]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/BP_GameStateText93CF53704D1D94924D4465B4A49D8DD7.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/BP_GameStateText.uasset'
+[2021.12.27-00.25.16:463][963]AssetCheck: New page: Asset Save: BP_GameStateText
+[2021.12.27-00.25.16:463][963]LogContentValidation: Display: Validating WidgetBlueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/BP_GameStateText.BP_GameStateText
+[2021.12.27-00.29.06:633][857]BlueprintLog: New page: Compilar BP_GameStateText
+[2021.12.27-00.29.08:557][857]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.12.27-00.29.09:599][888]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.27-00.29.09:853][888]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.12.27-00.29.09:874][888]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2021.12.27-00.29.10:773][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.12.27-00.29.10:788][888]LogPlayLevel: PlayLevel: Blueprint regeneration took 921 ms (1 blueprints)
+[2021.12.27-00.29.10:908][888]PIE: New page: Sesión PIE (reproducción en el editor): Demo (26 dic. 2021 14:29:10)
+[2021.12.27-00.29.11:034][888]LogPlayLevel: Creating play world package: /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.29.11:531][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.485631s)
+[2021.12.27-00.29.12:124][888]LogAIModule: Creating AISystem for world Demo
+[2021.12.27-00.29.12:246][888]LogPlayLevel: PIE: World Init took: (0.715249s)
+[2021.12.27-00.29.12:259][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Indoor_Shooting_Range/Map/Demo.Demo to /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo (1.219882s)
+[2021.12.27-00.29.12:297][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.12.27-00.29.12:337][888]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2021.12.27-00.29.12:361][888]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-00.29.12:361][888]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-00.29.12:361][888]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-00.29.12:361][888]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-00.29.12:361][888]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-00.29.12:361][888]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-00.29.12:361][888]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-00.29.12:376][888]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-00.29.12:420][888]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-00.29.12:420][888]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-00.29.12:420][888]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-00.29.12:420][888]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-00.29.12:464][888]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-00.29.12:464][888]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-00.29.12:480][888]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.27-00.29.12:501][888]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-00.29.12:501][888]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-00.29.12:502][888]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-00.29.12:504][888]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-00.29.12:505][888]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-00.29.12:505][888]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.27-00.29.12:507][888]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-00.29.12:507][888]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-00.29.12:507][888]LogInit: FAudioDevice initialized.
+[2021.12.27-00.29.12:508][888]LogAudio: Display: Audio Device (ID: 94) registered with world 'Demo'.
+[2021.12.27-00.29.12:658][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.29.12:701][888]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.27-00.29.13:071][888]LogWorld: Bringing World /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2021.12.26-19.29.13
+[2021.12.27-00.29.13:071][888]LogGameSession: Error: Player State class is invalid for game mode: FirstPersonGameMode_C_0!
+[2021.12.27-00.29.13:085][888]LogWorld: Bringing up level for play took: 0.381680
+[2021.12.27-00.29.13:212][888]LogOnline: OSS: Creating online subsystem instance for: :Context_104
+[2021.12.27-00.29.13:342][888]LogPlayerController: AController::InitPlayerState: the PlayerStateClass of game mode FirstPersonGameMode_C_0 is null, falling back to APlayerState.
+[2021.12.27-00.29.13:525][888]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Pulsa R para seleccionar
+[2021.12.27-00.29.13:557][888]PIE: El servidor ha iniciado la sesión
+[2021.12.27-00.29.13:560][888]PIE: Play in editor total start time 3.809 seconds.
+[2021.12.27-00.29.29:352][287]LogBlueprintUserMessages: [ResultsBPWidget_C_0] 4
+[2021.12.27-00.29.35:345][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.29.35:420][424]LogWorld: BeginTearingDown for /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.29.35:499][424]LogSlate: Window 'IndoorShootingRange5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.27-00.29.35:505][424]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-00.29.35:539][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.29.35:720][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-00.29.35:776][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.29.35:923][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.29.35:933][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.29.36:017][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.12.27-00.29.36:166][425]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2021.12.27-00.30.13:710][544]LogSlate: Window 'Seleccionador de color' being destroyed
+[2021.12.27-00.30.20:089][797]LogSlate: Window 'Seleccionador de color' being destroyed
+[2021.12.27-00.30.30:019][178]LogSlate: Window 'Seleccionador de color' being destroyed
+[2021.12.27-00.30.48:650][911]BlueprintLog: New page: Compilar BP_GameStateText
+[2021.12.27-00.30.48:752][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.12.27-00.30.51:693][ 21]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.27-00.30.51:702][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.27-00.30.51:702][ 21]PIE: New page: Sesión PIE (reproducción en el editor): Demo (26 dic. 2021 14:30:51)
+[2021.12.27-00.30.51:703][ 21]LogPlayLevel: Creating play world package: /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.30.51:732][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028408s)
+[2021.12.27-00.30.51:733][ 21]LogAIModule: Creating AISystem for world Demo
+[2021.12.27-00.30.51:733][ 21]LogPlayLevel: PIE: World Init took: (0.001336s)
+[2021.12.27-00.30.51:734][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Indoor_Shooting_Range/Map/Demo.Demo to /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo (0.030054s)
+[2021.12.27-00.30.51:771][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.12.27-00.30.51:773][ 21]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2021.12.27-00.30.51:773][ 21]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-00.30.51:773][ 21]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-00.30.51:773][ 21]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-00.30.51:773][ 21]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-00.30.51:773][ 21]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-00.30.51:773][ 21]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-00.30.51:773][ 21]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-00.30.51:773][ 21]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-00.30.51:773][ 21]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-00.30.51:773][ 21]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-00.30.51:773][ 21]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-00.30.51:774][ 21]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-00.30.51:775][ 21]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-00.30.51:775][ 21]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-00.30.51:788][ 21]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.27-00.30.51:789][ 21]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-00.30.51:789][ 21]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-00.30.51:789][ 21]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-00.30.51:789][ 21]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-00.30.51:789][ 21]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-00.30.51:789][ 21]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.27-00.30.51:791][ 21]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-00.30.51:791][ 21]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-00.30.51:791][ 21]LogInit: FAudioDevice initialized.
+[2021.12.27-00.30.51:791][ 21]LogAudio: Display: Audio Device (ID: 95) registered with world 'Demo'.
+[2021.12.27-00.30.51:841][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.30.51:841][ 21]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.27-00.30.51:860][ 21]LogWorld: Bringing World /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2021.12.26-19.30.51
+[2021.12.27-00.30.51:860][ 21]LogGameSession: Error: Player State class is invalid for game mode: FirstPersonGameMode_C_0!
+[2021.12.27-00.30.51:861][ 21]LogWorld: Bringing up level for play took: 0.018721
+[2021.12.27-00.30.51:861][ 21]LogOnline: OSS: Creating online subsystem instance for: :Context_105
+[2021.12.27-00.30.51:863][ 21]LogPlayerController: AController::InitPlayerState: the PlayerStateClass of game mode FirstPersonGameMode_C_0 is null, falling back to APlayerState.
+[2021.12.27-00.30.53:453][ 21]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Pulsa R para seleccionar
+[2021.12.27-00.30.53:457][ 21]PIE: El servidor ha iniciado la sesión
+[2021.12.27-00.30.53:459][ 21]PIE: Play in editor total start time 1.758 seconds.
+[2021.12.27-00.31.04:221][265]LogBlueprintUserMessages: [ResultsBPWidget_C_0] 4
+[2021.12.27-00.31.19:786][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.31.19:787][619]LogWorld: BeginTearingDown for /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.31.19:787][619]LogSlate: Window 'IndoorShootingRange5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.27-00.31.19:875][619]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-00.31.19:876][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.31.19:890][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-00.31.19:936][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.31.19:978][619]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.27-00.31.19:979][619]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.31.19:982][619]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.31.19:992][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.12.27-00.31.20:055][620]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2021.12.27-00.31.27:814][843]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.27-00.31.27:824][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.27-00.31.27:824][843]PIE: New page: Sesión PIE (reproducción en el editor): Demo (26 dic. 2021 14:31:27)
+[2021.12.27-00.31.27:828][843]LogPlayLevel: Creating play world package: /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.31.27:858][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029996s)
+[2021.12.27-00.31.27:859][843]LogAIModule: Creating AISystem for world Demo
+[2021.12.27-00.31.27:859][843]LogPlayLevel: PIE: World Init took: (0.001338s)
+[2021.12.27-00.31.27:859][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Indoor_Shooting_Range/Map/Demo.Demo to /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo (0.031530s)
+[2021.12.27-00.31.27:895][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.12.27-00.31.27:900][843]LogAudio: Display: Creating Audio Device:                 Id: 96, Scope: Unique, Realtime: True
+[2021.12.27-00.31.27:900][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-00.31.27:900][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-00.31.27:900][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-00.31.27:900][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-00.31.27:900][843]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-00.31.27:900][843]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-00.31.27:900][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-00.31.27:900][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-00.31.27:901][843]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-00.31.27:901][843]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-00.31.27:901][843]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-00.31.27:901][843]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-00.31.27:903][843]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-00.31.27:903][843]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-00.31.27:916][843]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.27-00.31.27:916][843]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-00.31.27:916][843]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-00.31.27:916][843]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-00.31.27:916][843]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-00.31.27:916][843]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-00.31.27:916][843]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.27-00.31.27:917][843]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-00.31.27:917][843]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-00.31.27:917][843]LogInit: FAudioDevice initialized.
+[2021.12.27-00.31.27:917][843]LogAudio: Display: Audio Device (ID: 96) registered with world 'Demo'.
+[2021.12.27-00.31.27:958][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.31.27:959][843]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.27-00.31.27:977][843]LogWorld: Bringing World /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2021.12.26-19.31.27
+[2021.12.27-00.31.27:977][843]LogGameSession: Error: Player State class is invalid for game mode: FirstPersonGameMode_C_0!
+[2021.12.27-00.31.27:977][843]LogWorld: Bringing up level for play took: 0.017750
+[2021.12.27-00.31.27:977][843]LogOnline: OSS: Creating online subsystem instance for: :Context_106
+[2021.12.27-00.31.27:978][843]LogPlayerController: AController::InitPlayerState: the PlayerStateClass of game mode FirstPersonGameMode_C_0 is null, falling back to APlayerState.
+[2021.12.27-00.31.27:980][843]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Pulsa R para seleccionar
+[2021.12.27-00.31.27:983][843]PIE: El servidor ha iniciado la sesión
+[2021.12.27-00.31.27:985][843]PIE: Play in editor total start time 0.162 seconds.
+[2021.12.27-00.31.57:361][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.31.57:361][458]LogWorld: BeginTearingDown for /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.31.57:362][458]LogSlate: Window 'IndoorShootingRange5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.27-00.31.57:433][458]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-00.31.57:434][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.31.57:456][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-00.31.57:803][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.31.57:835][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.31.57:836][458]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.31.57:846][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.12.27-00.31.57:894][459]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2021.12.27-00.32.23:523][412]BlueprintLog: New page: Compilar BP_GameStateText
+[2021.12.27-00.32.23:580][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.12.27-00.32.25:630][482]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.27-00.32.25:644][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.27-00.32.25:644][482]PIE: New page: Sesión PIE (reproducción en el editor): Demo (26 dic. 2021 14:32:25)
+[2021.12.27-00.32.25:644][482]LogPlayLevel: Creating play world package: /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.32.25:674][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028891s)
+[2021.12.27-00.32.25:674][482]LogAIModule: Creating AISystem for world Demo
+[2021.12.27-00.32.25:675][482]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2021.12.27-00.32.25:675][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Indoor_Shooting_Range/Map/Demo.Demo to /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo (0.030468s)
+[2021.12.27-00.32.25:713][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.12.27-00.32.25:715][482]LogAudio: Display: Creating Audio Device:                 Id: 97, Scope: Unique, Realtime: True
+[2021.12.27-00.32.25:715][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-00.32.25:715][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-00.32.25:715][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-00.32.25:715][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-00.32.25:715][482]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-00.32.25:715][482]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-00.32.25:715][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-00.32.25:715][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-00.32.25:715][482]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-00.32.25:715][482]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-00.32.25:715][482]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-00.32.25:715][482]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-00.32.25:717][482]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-00.32.25:717][482]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-00.32.25:730][482]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.27-00.32.25:730][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-00.32.25:730][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-00.32.25:730][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-00.32.25:731][482]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-00.32.25:731][482]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-00.32.25:731][482]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.27-00.32.25:732][482]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-00.32.25:732][482]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-00.32.25:732][482]LogInit: FAudioDevice initialized.
+[2021.12.27-00.32.25:732][482]LogAudio: Display: Audio Device (ID: 97) registered with world 'Demo'.
+[2021.12.27-00.32.25:774][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.32.25:775][482]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.27-00.32.25:794][482]LogWorld: Bringing World /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2021.12.26-19.32.25
+[2021.12.27-00.32.25:794][482]LogGameSession: Error: Player State class is invalid for game mode: FirstPersonGameMode_C_0!
+[2021.12.27-00.32.25:794][482]LogWorld: Bringing up level for play took: 0.018905
+[2021.12.27-00.32.25:794][482]LogOnline: OSS: Creating online subsystem instance for: :Context_107
+[2021.12.27-00.32.25:796][482]LogPlayerController: AController::InitPlayerState: the PlayerStateClass of game mode FirstPersonGameMode_C_0 is null, falling back to APlayerState.
+[2021.12.27-00.32.25:797][482]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Pulsa R para seleccionar
+[2021.12.27-00.32.25:800][482]PIE: El servidor ha iniciado la sesión
+[2021.12.27-00.32.25:802][482]PIE: Play in editor total start time 0.159 seconds.
+[2021.12.27-00.32.27:909][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.32.27:909][531]LogWorld: BeginTearingDown for /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.32.27:910][531]LogSlate: Window 'IndoorShootingRange5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.27-00.32.27:995][531]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-00.32.27:997][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.32.28:011][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-00.32.28:054][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.32.28:098][531]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.27-00.32.28:098][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.32.28:099][531]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.32.28:113][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.12.27-00.32.28:176][532]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2021.12.27-00.32.30:122][597]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/BP_GameStateText68259B0E4D176D244CFC499665015A62.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/BP_GameStateText.uasset'
+[2021.12.27-00.32.30:138][597]AssetCheck: New page: Asset Save: BP_GameStateText
+[2021.12.27-00.32.30:138][597]LogContentValidation: Display: Validating WidgetBlueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/BP_GameStateText.BP_GameStateText
+[2021.12.27-00.32.31:049][630]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/BP_GameStateText047BE4EF4318051AEF9E5895EDEF4E52.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/BP_GameStateText.uasset'
+[2021.12.27-00.32.31:063][630]AssetCheck: New page: Asset Save: BP_GameStateText
+[2021.12.27-00.32.31:064][630]LogContentValidation: Display: Validating WidgetBlueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/BP_GameStateText.BP_GameStateText
+[2021.12.27-00.32.32:709][694]BlueprintLog: New page: Compilar BP_GameStateText
+[2021.12.27-00.32.32:783][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.12.27-00.32.42:749][ 60]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/BP_GameStateTextF5E472D44772CBE5B16DC494F5E7EA28.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/BP_GameStateText.uasset'
+[2021.12.27-00.32.42:763][ 60]AssetCheck: New page: Asset Save: BP_GameStateText
+[2021.12.27-00.32.42:763][ 60]LogContentValidation: Display: Validating WidgetBlueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/BP_GameStateText.BP_GameStateText
+[2021.12.27-00.32.45:457][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.12.27-00.32.45:533][ 98]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/Demo9BD397144E58FEFBBA7D99A4CA9545BC.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/Demo.umap'
+[2021.12.27-00.32.46:080][ 98]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/Demo_BuiltDataA97B529C4746509D7C86B7B129AC7B83.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/Demo_BuiltData.uasset'
+[2021.12.27-00.32.46:131][ 98]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.27-00.32.46:131][ 98]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Indoor_Shooting_Range/Map/Demo_BuiltData.Demo_BuiltData
+[2021.12.27-00.32.46:132][ 98]LogContentValidation: Display: Validating World /Game/Indoor_Shooting_Range/Map/Demo.Demo
+[2021.12.27-00.32.47:634][150]BlueprintLog: New page: Compilar BP_GameStateText
+[2021.12.27-00.32.47:705][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.12.27-00.32.49:006][187]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/BP_GameStateTextAFBF8C1E4B4CD1D0ED37B9B90A111B7D.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/BP_GameStateText.uasset'
+[2021.12.27-00.32.49:023][187]AssetCheck: New page: Asset Save: BP_GameStateText
+[2021.12.27-00.32.49:023][187]LogContentValidation: Display: Validating WidgetBlueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/BP_GameStateText.BP_GameStateText
+[2021.12.27-00.32.50:313][240]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.27-00.32.50:324][240]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.27-00.32.50:324][240]PIE: New page: Sesión PIE (reproducción en el editor): Demo (26 dic. 2021 14:32:50)
+[2021.12.27-00.32.50:325][240]LogPlayLevel: Creating play world package: /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.32.50:353][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028015s)
+[2021.12.27-00.32.50:355][240]LogAIModule: Creating AISystem for world Demo
+[2021.12.27-00.32.50:355][240]LogPlayLevel: PIE: World Init took: (0.001333s)
+[2021.12.27-00.32.50:355][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Indoor_Shooting_Range/Map/Demo.Demo to /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo (0.029511s)
+[2021.12.27-00.32.50:395][240]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.12.27-00.32.50:401][240]LogAudio: Display: Creating Audio Device:                 Id: 98, Scope: Unique, Realtime: True
+[2021.12.27-00.32.50:401][240]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-00.32.50:401][240]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-00.32.50:401][240]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-00.32.50:401][240]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-00.32.50:401][240]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-00.32.50:401][240]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-00.32.50:401][240]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-00.32.50:401][240]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-00.32.50:402][240]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-00.32.50:402][240]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-00.32.50:402][240]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-00.32.50:402][240]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-00.32.50:404][240]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-00.32.50:404][240]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-00.32.50:417][240]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.27-00.32.50:417][240]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-00.32.50:417][240]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-00.32.50:417][240]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-00.32.50:418][240]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-00.32.50:418][240]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-00.32.50:418][240]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.27-00.32.50:419][240]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-00.32.50:419][240]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-00.32.50:419][240]LogInit: FAudioDevice initialized.
+[2021.12.27-00.32.50:419][240]LogAudio: Display: Audio Device (ID: 98) registered with world 'Demo'.
+[2021.12.27-00.32.50:472][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.32.50:472][240]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.27-00.32.50:491][240]LogWorld: Bringing World /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2021.12.26-19.32.50
+[2021.12.27-00.32.50:491][240]LogGameSession: Error: Player State class is invalid for game mode: FirstPersonGameMode_C_0!
+[2021.12.27-00.32.50:492][240]LogWorld: Bringing up level for play took: 0.018643
+[2021.12.27-00.32.50:492][240]LogOnline: OSS: Creating online subsystem instance for: :Context_108
+[2021.12.27-00.32.50:493][240]LogPlayerController: AController::InitPlayerState: the PlayerStateClass of game mode FirstPersonGameMode_C_0 is null, falling back to APlayerState.
+[2021.12.27-00.32.50:495][240]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Pulsa R para seleccionar
+[2021.12.27-00.32.50:497][240]PIE: El servidor ha iniciado la sesión
+[2021.12.27-00.32.50:500][240]PIE: Play in editor total start time 0.177 seconds.
+[2021.12.27-00.32.55:574][350]LogBlueprintUserMessages: [ResultsBPWidget_C_0] 4
+[2021.12.27-00.32.59:447][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.32.59:448][434]LogWorld: BeginTearingDown for /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.32.59:448][434]LogSlate: Window 'IndoorShootingRange5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.27-00.32.59:536][434]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-00.32.59:542][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.32.59:560][434]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-00.32.59:604][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.32.59:650][434]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.27-00.32.59:650][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.32.59:651][434]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.32.59:666][434]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2021.12.27-00.32.59:729][435]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2021.12.27-00.37.29:615][666]BlueprintLog: New page: Compilar ResultsBPWidget
+[2021.12.27-00.37.29:683][666]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.12.27-00.37.32:435][758]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.27-00.37.32:449][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.27-00.37.32:449][758]PIE: New page: Sesión PIE (reproducción en el editor): Demo (26 dic. 2021 14:37:32)
+[2021.12.27-00.37.32:450][758]LogPlayLevel: Creating play world package: /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.37.32:479][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029519s)
+[2021.12.27-00.37.32:480][758]LogAIModule: Creating AISystem for world Demo
+[2021.12.27-00.37.32:481][758]LogPlayLevel: PIE: World Init took: (0.001371s)
+[2021.12.27-00.37.32:481][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Indoor_Shooting_Range/Map/Demo.Demo to /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo (0.031049s)
+[2021.12.27-00.37.32:520][758]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.12.27-00.37.32:528][758]LogAudio: Display: Creating Audio Device:                 Id: 99, Scope: Unique, Realtime: True
+[2021.12.27-00.37.32:528][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-00.37.32:528][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-00.37.32:528][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-00.37.32:528][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-00.37.32:528][758]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-00.37.32:528][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-00.37.32:528][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-00.37.32:528][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-00.37.32:529][758]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-00.37.32:529][758]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-00.37.32:529][758]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-00.37.32:529][758]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-00.37.32:530][758]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-00.37.32:530][758]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-00.37.32:543][758]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.27-00.37.32:543][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-00.37.32:543][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-00.37.32:544][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-00.37.32:544][758]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-00.37.32:544][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-00.37.32:544][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.27-00.37.32:545][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-00.37.32:545][758]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-00.37.32:545][758]LogInit: FAudioDevice initialized.
+[2021.12.27-00.37.32:545][758]LogAudio: Display: Audio Device (ID: 99) registered with world 'Demo'.
+[2021.12.27-00.37.32:592][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.37.32:592][758]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.27-00.37.32:611][758]LogWorld: Bringing World /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2021.12.26-19.37.32
+[2021.12.27-00.37.32:611][758]LogGameSession: Error: Player State class is invalid for game mode: FirstPersonGameMode_C_0!
+[2021.12.27-00.37.32:611][758]LogWorld: Bringing up level for play took: 0.018360
+[2021.12.27-00.37.32:611][758]LogOnline: OSS: Creating online subsystem instance for: :Context_109
+[2021.12.27-00.37.32:652][758]LogPlayerController: AController::InitPlayerState: the PlayerStateClass of game mode FirstPersonGameMode_C_0 is null, falling back to APlayerState.
+[2021.12.27-00.37.32:654][758]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Pulsa R para seleccionar
+[2021.12.27-00.37.32:695][758]PIE: El servidor ha iniciado la sesión
+[2021.12.27-00.37.32:697][758]PIE: Play in editor total start time 0.249 seconds.
+[2021.12.27-00.37.37:446][869]LogBlueprintUserMessages: [ResultsBPWidget_C_0] 3
+[2021.12.27-00.37.46:447][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.37.46:447][ 78]LogWorld: BeginTearingDown for /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.37.46:448][ 78]LogSlate: Window 'IndoorShootingRange5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.27-00.37.46:535][ 78]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-00.37.46:537][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.37.46:554][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-00.37.46:597][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.37.46:636][ 78]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.27-00.37.46:637][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.37.46:637][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.37.46:652][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.12.27-00.37.46:720][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2021.12.27-00.37.58:854][525]BlueprintLog: New page: Compilar ResultsBPWidget
+[2021.12.27-00.37.58:910][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.12.27-00.38.00:525][584]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.27-00.38.00:537][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.27-00.38.00:537][584]PIE: New page: Sesión PIE (reproducción en el editor): Demo (26 dic. 2021 14:38:00)
+[2021.12.27-00.38.00:538][584]LogPlayLevel: Creating play world package: /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.38.00:564][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025936s)
+[2021.12.27-00.38.00:565][584]LogAIModule: Creating AISystem for world Demo
+[2021.12.27-00.38.00:566][584]LogPlayLevel: PIE: World Init took: (0.001248s)
+[2021.12.27-00.38.00:566][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Indoor_Shooting_Range/Map/Demo.Demo to /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo (0.027328s)
+[2021.12.27-00.38.00:603][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.12.27-00.38.00:605][584]LogAudio: Display: Creating Audio Device:                 Id: 100, Scope: Unique, Realtime: True
+[2021.12.27-00.38.00:605][584]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-00.38.00:606][584]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-00.38.00:606][584]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-00.38.00:606][584]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-00.38.00:606][584]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-00.38.00:606][584]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-00.38.00:606][584]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-00.38.00:606][584]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-00.38.00:606][584]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-00.38.00:606][584]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-00.38.00:606][584]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-00.38.00:607][584]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-00.38.00:608][584]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-00.38.00:608][584]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-00.38.00:620][584]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.27-00.38.00:620][584]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-00.38.00:620][584]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-00.38.00:620][584]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-00.38.00:622][584]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-00.38.00:622][584]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-00.38.00:622][584]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.27-00.38.00:623][584]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-00.38.00:623][584]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-00.38.00:623][584]LogInit: FAudioDevice initialized.
+[2021.12.27-00.38.00:623][584]LogAudio: Display: Audio Device (ID: 100) registered with world 'Demo'.
+[2021.12.27-00.38.00:668][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.38.00:668][584]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.27-00.38.00:686][584]LogWorld: Bringing World /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2021.12.26-19.38.00
+[2021.12.27-00.38.00:686][584]LogGameSession: Error: Player State class is invalid for game mode: FirstPersonGameMode_C_0!
+[2021.12.27-00.38.00:686][584]LogWorld: Bringing up level for play took: 0.017050
+[2021.12.27-00.38.00:686][584]LogOnline: OSS: Creating online subsystem instance for: :Context_110
+[2021.12.27-00.38.00:687][584]LogPlayerController: AController::InitPlayerState: the PlayerStateClass of game mode FirstPersonGameMode_C_0 is null, falling back to APlayerState.
+[2021.12.27-00.38.00:689][584]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Pulsa R para seleccionar
+[2021.12.27-00.38.00:691][584]PIE: El servidor ha iniciado la sesión
+[2021.12.27-00.38.00:693][584]PIE: Play in editor total start time 0.158 seconds.
+[2021.12.27-00.38.03:657][649]LogBlueprintUserMessages: [ResultsBPWidget_C_0] 1
+[2021.12.27-00.38.09:311][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.38.09:311][780]LogWorld: BeginTearingDown for /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.38.09:312][780]LogSlate: Window 'IndoorShootingRange5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.27-00.38.09:383][780]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-00.38.09:384][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.38.09:403][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-00.38.09:446][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.38.09:486][780]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.27-00.38.09:487][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.38.09:489][780]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.38.09:501][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.12.27-00.38.09:565][781]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2021.12.27-00.40.01:090][828]BlueprintLog: New page: Compilar ResultsBPWidget
+[2021.12.27-00.40.01:152][828]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2021.12.27-00.40.02:299][862]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.27-00.40.02:311][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.27-00.40.02:311][862]PIE: New page: Sesión PIE (reproducción en el editor): Demo (26 dic. 2021 14:40:02)
+[2021.12.27-00.40.02:311][862]LogPlayLevel: Creating play world package: /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.40.02:344][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033274s)
+[2021.12.27-00.40.02:345][862]LogAIModule: Creating AISystem for world Demo
+[2021.12.27-00.40.02:346][862]LogPlayLevel: PIE: World Init took: (0.001652s)
+[2021.12.27-00.40.02:346][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Indoor_Shooting_Range/Map/Demo.Demo to /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo (0.035088s)
+[2021.12.27-00.40.02:383][862]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.12.27-00.40.02:387][862]LogAudio: Display: Creating Audio Device:                 Id: 101, Scope: Unique, Realtime: True
+[2021.12.27-00.40.02:387][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-00.40.02:387][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-00.40.02:387][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-00.40.02:387][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-00.40.02:387][862]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-00.40.02:387][862]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-00.40.02:387][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-00.40.02:387][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-00.40.02:387][862]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-00.40.02:387][862]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-00.40.02:387][862]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-00.40.02:387][862]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-00.40.02:388][862]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-00.40.02:388][862]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-00.40.02:400][862]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.27-00.40.02:401][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-00.40.02:401][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-00.40.02:401][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-00.40.02:401][862]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-00.40.02:401][862]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-00.40.02:401][862]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.27-00.40.02:402][862]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-00.40.02:402][862]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-00.40.02:402][862]LogInit: FAudioDevice initialized.
+[2021.12.27-00.40.02:402][862]LogAudio: Display: Audio Device (ID: 101) registered with world 'Demo'.
+[2021.12.27-00.40.02:461][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.40.02:462][862]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.27-00.40.02:482][862]LogWorld: Bringing World /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2021.12.26-19.40.02
+[2021.12.27-00.40.02:482][862]LogGameSession: Error: Player State class is invalid for game mode: FirstPersonGameMode_C_0!
+[2021.12.27-00.40.02:482][862]LogWorld: Bringing up level for play took: 0.019940
+[2021.12.27-00.40.02:482][862]LogOnline: OSS: Creating online subsystem instance for: :Context_111
+[2021.12.27-00.40.02:484][862]LogPlayerController: AController::InitPlayerState: the PlayerStateClass of game mode FirstPersonGameMode_C_0 is null, falling back to APlayerState.
+[2021.12.27-00.40.02:486][862]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Pulsa R para seleccionar
+[2021.12.27-00.40.02:490][862]PIE: El servidor ha iniciado la sesión
+[2021.12.27-00.40.02:492][862]PIE: Play in editor total start time 0.183 seconds.
+[2021.12.27-00.40.05:372][925]LogBlueprintUserMessages: [ResultsBPWidget_C_0] 3
+[2021.12.27-00.40.33:659][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.40.33:659][548]LogWorld: BeginTearingDown for /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.40.33:659][548]LogSlate: Window 'IndoorShootingRange5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.27-00.40.33:739][548]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-00.40.33:741][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.40.33:759][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-00.40.33:802][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.40.33:854][548]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.27-00.40.33:855][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.40.33:856][548]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.40.33:870][548]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.12.27-00.40.33:931][549]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2021.12.27-00.41.41:615][ 43]BlueprintLog: New page: Compilar PauseResumeBPWidget
+[2021.12.27-00.41.41:680][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.12.27-00.41.45:766][189]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.27-00.41.45:789][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.27-00.41.45:789][189]PIE: New page: Sesión PIE (reproducción en el editor): Demo (26 dic. 2021 14:41:45)
+[2021.12.27-00.41.45:801][189]LogPlayLevel: Creating play world package: /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.41.45:833][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030991s)
+[2021.12.27-00.41.45:834][189]LogAIModule: Creating AISystem for world Demo
+[2021.12.27-00.41.45:834][189]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2021.12.27-00.41.45:834][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Indoor_Shooting_Range/Map/Demo.Demo to /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo (0.032467s)
+[2021.12.27-00.41.45:872][189]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.12.27-00.41.45:874][189]LogAudio: Display: Creating Audio Device:                 Id: 102, Scope: Unique, Realtime: True
+[2021.12.27-00.41.45:874][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-00.41.45:874][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-00.41.45:874][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-00.41.45:874][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-00.41.45:874][189]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-00.41.45:874][189]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-00.41.45:874][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-00.41.45:874][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-00.41.45:874][189]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-00.41.45:874][189]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-00.41.45:874][189]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-00.41.45:874][189]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-00.41.45:876][189]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-00.41.45:876][189]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-00.41.45:889][189]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.27-00.41.45:889][189]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-00.41.45:889][189]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-00.41.45:889][189]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-00.41.45:889][189]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-00.41.45:889][189]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-00.41.45:889][189]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.27-00.41.45:890][189]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-00.41.45:890][189]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-00.41.45:891][189]LogInit: FAudioDevice initialized.
+[2021.12.27-00.41.45:891][189]LogAudio: Display: Audio Device (ID: 102) registered with world 'Demo'.
+[2021.12.27-00.41.45:937][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.41.45:938][189]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.27-00.41.45:957][189]LogWorld: Bringing World /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2021.12.26-19.41.45
+[2021.12.27-00.41.45:957][189]LogGameSession: Error: Player State class is invalid for game mode: FirstPersonGameMode_C_0!
+[2021.12.27-00.41.45:957][189]LogWorld: Bringing up level for play took: 0.018717
+[2021.12.27-00.41.45:957][189]LogOnline: OSS: Creating online subsystem instance for: :Context_112
+[2021.12.27-00.41.45:959][189]LogPlayerController: AController::InitPlayerState: the PlayerStateClass of game mode FirstPersonGameMode_C_0 is null, falling back to APlayerState.
+[2021.12.27-00.41.45:960][189]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Pulsa R para seleccionar
+[2021.12.27-00.41.45:963][189]PIE: El servidor ha iniciado la sesión
+[2021.12.27-00.41.45:965][189]PIE: Play in editor total start time 0.177 seconds.
+[2021.12.27-00.41.57:409][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.41.57:409][417]LogWorld: BeginTearingDown for /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.41.57:410][417]LogSlate: Window 'IndoorShootingRange5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.27-00.41.57:482][417]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-00.41.57:483][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.41.57:497][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-00.41.57:538][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.41.57:583][417]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.27-00.41.57:584][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.41.57:585][417]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.41.57:599][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.12.27-00.41.57:663][418]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2021.12.27-00.42.48:261][334]LogSlate: Window 'Seleccionador de color' being destroyed
+[2021.12.27-00.43.11:578][192]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/PauseResumeBPWidgetABDF07A44B37E87501C25D8AA6312BE4.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/PauseResumeBPWidget.uasset'
+[2021.12.27-00.43.11:595][192]AssetCheck: New page: Asset Save: PauseResumeBPWidget
+[2021.12.27-00.43.11:595][192]LogContentValidation: Display: Validating WidgetBlueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/PauseResumeBPWidget.PauseResumeBPWidget
+[2021.12.27-00.43.12:523][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.12.27-00.43.12:595][225]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/Demo22C94A9946E3853BB593648BBFD19D6E.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/Demo.umap'
+[2021.12.27-00.43.12:887][225]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/Demo_BuiltDataABD9C28E425FC7701299359581C2F21F.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/Demo_BuiltData.uasset'
+[2021.12.27-00.43.12:901][225]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.27-00.43.12:901][225]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Indoor_Shooting_Range/Map/Demo_BuiltData.Demo_BuiltData
+[2021.12.27-00.43.12:901][225]LogContentValidation: Display: Validating World /Game/Indoor_Shooting_Range/Map/Demo.Demo
+[2021.12.27-00.43.13:465][241]BlueprintLog: New page: Compilar PauseResumeBPWidget
+[2021.12.27-00.43.13:516][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.12.27-00.43.14:564][271]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.27-00.43.14:569][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.27-00.43.14:569][271]PIE: New page: Sesión PIE (reproducción en el editor): Demo (26 dic. 2021 14:43:14)
+[2021.12.27-00.43.14:570][271]LogPlayLevel: Creating play world package: /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.43.14:602][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033268s)
+[2021.12.27-00.43.14:603][271]LogAIModule: Creating AISystem for world Demo
+[2021.12.27-00.43.14:603][271]LogPlayLevel: PIE: World Init took: (0.001444s)
+[2021.12.27-00.43.14:604][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Indoor_Shooting_Range/Map/Demo.Demo to /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo (0.034911s)
+[2021.12.27-00.43.14:651][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.12.27-00.43.14:653][271]LogAudio: Display: Creating Audio Device:                 Id: 103, Scope: Unique, Realtime: True
+[2021.12.27-00.43.14:653][271]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-00.43.14:653][271]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-00.43.14:653][271]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-00.43.14:653][271]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-00.43.14:653][271]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-00.43.14:653][271]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-00.43.14:653][271]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-00.43.14:653][271]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-00.43.14:653][271]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-00.43.14:653][271]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-00.43.14:653][271]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-00.43.14:653][271]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-00.43.14:655][271]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-00.43.14:655][271]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-00.43.14:668][271]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.27-00.43.14:668][271]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-00.43.14:668][271]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-00.43.14:668][271]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-00.43.14:668][271]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-00.43.14:668][271]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-00.43.14:668][271]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.27-00.43.14:670][271]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-00.43.14:670][271]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-00.43.14:670][271]LogInit: FAudioDevice initialized.
+[2021.12.27-00.43.14:670][271]LogAudio: Display: Audio Device (ID: 103) registered with world 'Demo'.
+[2021.12.27-00.43.14:709][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.43.14:709][271]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.27-00.43.14:728][271]LogWorld: Bringing World /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2021.12.26-19.43.14
+[2021.12.27-00.43.14:728][271]LogGameSession: Error: Player State class is invalid for game mode: FirstPersonGameMode_C_0!
+[2021.12.27-00.43.14:728][271]LogWorld: Bringing up level for play took: 0.018964
+[2021.12.27-00.43.14:729][271]LogOnline: OSS: Creating online subsystem instance for: :Context_113
+[2021.12.27-00.43.14:730][271]LogPlayerController: AController::InitPlayerState: the PlayerStateClass of game mode FirstPersonGameMode_C_0 is null, falling back to APlayerState.
+[2021.12.27-00.43.14:731][271]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Pulsa R para seleccionar
+[2021.12.27-00.43.14:734][271]PIE: El servidor ha iniciado la sesión
+[2021.12.27-00.43.14:736][271]PIE: Play in editor total start time 0.168 seconds.
+[2021.12.27-00.43.20:289][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.43.20:289][411]LogWorld: BeginTearingDown for /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.43.20:290][411]LogSlate: Window 'IndoorShootingRange5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.27-00.43.20:356][411]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-00.43.20:358][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.43.20:369][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-00.43.20:412][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.43.20:456][411]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.27-00.43.20:456][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.43.20:457][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.43.20:467][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.12.27-00.43.20:528][412]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2021.12.27-00.44.20:401][680]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/PauseResumeBPWidget7D0552524B800E09877C52A9F54E5FDE.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Content/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/PauseResumeBPWidget.uasset'
+[2021.12.27-00.44.20:417][680]AssetCheck: New page: Asset Save: PauseResumeBPWidget
+[2021.12.27-00.44.20:417][680]LogContentValidation: Display: Validating WidgetBlueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/PauseResumeBPWidget.PauseResumeBPWidget
+[2021.12.27-00.44.20:844][698]BlueprintLog: New page: Compilar PauseResumeBPWidget
+[2021.12.27-00.44.20:907][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.12.27-00.44.22:163][736]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.27-00.44.22:175][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.27-00.44.22:175][736]PIE: New page: Sesión PIE (reproducción en el editor): Demo (26 dic. 2021 14:44:22)
+[2021.12.27-00.44.22:177][736]LogPlayLevel: Creating play world package: /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.44.22:204][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027577s)
+[2021.12.27-00.44.22:205][736]LogAIModule: Creating AISystem for world Demo
+[2021.12.27-00.44.22:206][736]LogPlayLevel: PIE: World Init took: (0.001326s)
+[2021.12.27-00.44.22:206][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Indoor_Shooting_Range/Map/Demo.Demo to /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo (0.029087s)
+[2021.12.27-00.44.22:243][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.12.27-00.44.22:245][736]LogAudio: Display: Creating Audio Device:                 Id: 104, Scope: Unique, Realtime: True
+[2021.12.27-00.44.22:245][736]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-00.44.22:245][736]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-00.44.22:245][736]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-00.44.22:245][736]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-00.44.22:245][736]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-00.44.22:245][736]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-00.44.22:245][736]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-00.44.22:245][736]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-00.44.22:245][736]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-00.44.22:245][736]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-00.44.22:245][736]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-00.44.22:245][736]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-00.44.22:247][736]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-00.44.22:247][736]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-00.44.22:259][736]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.27-00.44.22:260][736]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-00.44.22:260][736]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-00.44.22:260][736]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-00.44.22:260][736]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-00.44.22:260][736]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-00.44.22:260][736]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.27-00.44.22:261][736]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-00.44.22:261][736]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-00.44.22:261][736]LogInit: FAudioDevice initialized.
+[2021.12.27-00.44.22:261][736]LogAudio: Display: Audio Device (ID: 104) registered with world 'Demo'.
+[2021.12.27-00.44.22:301][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.44.22:301][736]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.27-00.44.22:319][736]LogWorld: Bringing World /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2021.12.26-19.44.22
+[2021.12.27-00.44.22:319][736]LogGameSession: Error: Player State class is invalid for game mode: FirstPersonGameMode_C_0!
+[2021.12.27-00.44.22:320][736]LogWorld: Bringing up level for play took: 0.017644
+[2021.12.27-00.44.22:320][736]LogOnline: OSS: Creating online subsystem instance for: :Context_114
+[2021.12.27-00.44.22:321][736]LogPlayerController: AController::InitPlayerState: the PlayerStateClass of game mode FirstPersonGameMode_C_0 is null, falling back to APlayerState.
+[2021.12.27-00.44.22:323][736]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Pulsa R para seleccionar
+[2021.12.27-00.44.22:325][736]PIE: El servidor ha iniciado la sesión
+[2021.12.27-00.44.22:327][736]PIE: Play in editor total start time 0.152 seconds.
+[2021.12.27-00.44.27:018][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.44.27:018][854]LogWorld: BeginTearingDown for /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.44.27:019][854]LogSlate: Window 'IndoorShootingRange5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.27-00.44.27:084][854]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-00.44.27:086][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.44.27:103][854]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-00.44.27:142][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.44.27:187][854]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.27-00.44.27:187][854]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.44.27:189][854]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.44.27:202][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.12.27-00.44.27:264][855]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2021.12.27-00.44.28:614][895]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.12.27-00.44.28:623][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.27-00.44.28:624][895]PIE: New page: Sesión PIE (reproducción en el editor): Demo (26 dic. 2021 14:44:28)
+[2021.12.27-00.44.28:626][895]LogPlayLevel: Creating play world package: /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.44.28:652][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024932s)
+[2021.12.27-00.44.28:653][895]LogAIModule: Creating AISystem for world Demo
+[2021.12.27-00.44.28:653][895]LogPlayLevel: PIE: World Init took: (0.001499s)
+[2021.12.27-00.44.28:653][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Indoor_Shooting_Range/Map/Demo.Demo to /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo (0.026755s)
+[2021.12.27-00.44.28:690][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.12.27-00.44.28:694][895]LogAudio: Display: Creating Audio Device:                 Id: 105, Scope: Unique, Realtime: True
+[2021.12.27-00.44.28:694][895]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.27-00.44.28:694][895]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.27-00.44.28:694][895]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.27-00.44.28:694][895]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.27-00.44.28:694][895]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.27-00.44.28:694][895]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.27-00.44.28:694][895]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.27-00.44.28:694][895]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.27-00.44.28:695][895]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.27-00.44.28:695][895]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.27-00.44.28:695][895]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.27-00.44.28:695][895]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.27-00.44.28:696][895]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.27-00.44.28:696][895]LogAudioMixer: Display: 1: FrontRight
+[2021.12.27-00.44.28:708][895]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2021.12.27-00.44.28:709][895]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.27-00.44.28:709][895]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.27-00.44.28:709][895]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.27-00.44.28:709][895]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.27-00.44.28:709][895]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.27-00.44.28:709][895]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.27-00.44.28:713][895]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.27-00.44.28:713][895]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.27-00.44.28:713][895]LogInit: FAudioDevice initialized.
+[2021.12.27-00.44.28:713][895]LogAudio: Display: Audio Device (ID: 105) registered with world 'Demo'.
+[2021.12.27-00.44.28:751][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.44.28:751][895]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.12.27-00.44.28:769][895]LogWorld: Bringing World /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo.Demo up for play (max tick rate 60) at 2021.12.26-19.44.28
+[2021.12.27-00.44.28:769][895]LogGameSession: Error: Player State class is invalid for game mode: FirstPersonGameMode_C_0!
+[2021.12.27-00.44.28:769][895]LogWorld: Bringing up level for play took: 0.017531
+[2021.12.27-00.44.28:769][895]LogOnline: OSS: Creating online subsystem instance for: :Context_115
+[2021.12.27-00.44.28:771][895]LogPlayerController: AController::InitPlayerState: the PlayerStateClass of game mode FirstPersonGameMode_C_0 is null, falling back to APlayerState.
+[2021.12.27-00.44.28:772][895]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Pulsa R para seleccionar
+[2021.12.27-00.44.28:776][895]PIE: El servidor ha iniciado la sesión
+[2021.12.27-00.44.28:778][895]PIE: Play in editor total start time 0.155 seconds.
+[2021.12.27-00.44.32:452][973]LogBlueprintUserMessages: [ResultsBPWidget_C_0] 3
+[2021.12.27-00.44.40:978][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.27-00.44.40:978][166]LogWorld: BeginTearingDown for /Game/Indoor_Shooting_Range/Map/UEDPIE_0_Demo
+[2021.12.27-00.44.40:978][166]LogSlate: Window 'IndoorShootingRange5 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.27-00.44.41:058][166]LogWorld: UWorld::CleanupWorld for Demo, bSessionEnded=true, bCleanupResources=true
+[2021.12.27-00.44.41:060][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.44.41:081][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.27-00.44.41:129][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.27-00.44.41:176][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.44.41:177][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.27-00.44.41:189][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.12.27-00.44.41:250][167]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2021.12.27-00.44.44:716][276]BlueprintLog: New page: Compilar ResultsBPWidget
+[2021.12.27-00.44.44:768][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.12.27-00.53.35:586][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2021.12.27-00.53.35:664][ 67]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/Demo_Auto726D5F708403C5EC9EE8031901C9C5B64.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/Autosaves/Game/Indoor_Shooting_Range/Map/Demo_Auto7.umap'
+[2021.12.27-00.53.35:668][ 67]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Indoor_Shooting_Range/Map/Demo' took 0.141
+[2021.12.27-00.53.35:670][ 67]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.141
+[2021.12.27-00.53.35:671][ 67]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/FirstPersonCharacter] ([2] browsable assets)...
+[2021.12.27-00.53.35:756][ 67]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2021.12.27-00.53.35:757][ 67]OBJ SavePackage: Finished generating thumbnails for package [/Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2021.12.27-00.53.35:876][ 67]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/FirstPersonCharacter_Auto74F0B7546439CE44814255C90F49A27BA.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/Autosaves/Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto7.uasset'
+[2021.12.27-00.53.35:893][ 67]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/ResultsBPWidget] ([2] browsable assets)...
+[2021.12.27-00.53.35:893][ 67]OBJ SavePackage: Finished generating thumbnails for package [/Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/ResultsBPWidget]
+[2021.12.27-00.53.35:920][ 67]LogSavePackage: Moving 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/ResultsBPWidget_Auto7B1DCE3C04AD831299B8A909985728B97.tmp' to 'C:/Users/Administrador/Documents/Unreal Projects/IndoorShootingRange5/Saved/Autosaves/Game/Indoor_Shooting_Range/Map/FirstPersonBP/Blueprints/ResultsBPWidget_Auto7.uasset'
+[2021.12.27-00.53.35:921][ 67]LogFileHelpers: Auto-saving content packages took 0.252
+[2021.12.27-01.01.38:922][511]LogHttp: Warning: 0000015EFEAE6400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA8D88495-49B9-9F74-C539-FFB2FEAF67AB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=cdfab68c41e4f1e0db155eba64119f73%7C982dba3afabb4774814e05da18d40d83%7C4b42fbee-d943-44f5-9fea-6a07f98709e4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.12.27-01.01.38:922][511]LogHttp: Warning: 0000015EFEAE6400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.12.27-01.01.38:922][511]LogHttp: Warning: 0000015EFEAE6400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x15c718b7940 [can pipeline])
+[2021.12.27-01.01.38:922][511]LogHttp: Warning: 0000015EFEAE6400: libcurl info message cache 1 (Re-using existing connection! (#25) with host datarouter.ol.epicgames.com)
+[2021.12.27-01.01.38:922][511]LogHttp: Warning: 0000015EFEAE6400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.194.112.183) port 443 (#25))
+[2021.12.27-01.01.38:922][511]LogHttp: Warning: 0000015EFEAE6400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.12.27-01.01.38:922][511]LogHttp: Warning: 0000015EFEAE6400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.12.27-01.01.38:922][511]LogHttp: Warning: 0000015EFEAE6400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.12.27-01.01.38:922][511]LogHttp: Warning: 0000015EFEAE6400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.12.27-01.01.38:922][511]LogHttp: Warning: 0000015EFEAE6400: libcurl info message cache 7 (Closing connection 25)
+[2021.12.27-01.01.38:923][511]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA8D88495-49B9-9F74-C539-FFB2FEAF67AB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=cdfab68c41e4f1e0db155eba64119f73%7C982dba3afabb4774814e05da18d40d83%7C4b42fbee-d943-44f5-9fea-6a07f98709e4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.12.27-01.02.09:082][601]LogHttp: Warning: 0000015EF4F53900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA8D88495-49B9-9F74-C539-FFB2FEAF67AB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=cdfab68c41e4f1e0db155eba64119f73%7C982dba3afabb4774814e05da18d40d83%7C4b42fbee-d943-44f5-9fea-6a07f98709e4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.12.27-01.02.09:082][601]LogHttp: Warning: 0000015EF4F53900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.12.27-01.02.09:082][601]LogHttp: Warning: 0000015EF4F53900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.12.27-01.02.09:082][601]LogHttp: Warning: 0000015EF4F53900: libcurl info message cache 1 (Closing connection 26)
+[2021.12.27-01.02.09:082][601]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA8D88495-49B9-9F74-C539-FFB2FEAF67AB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.1-17735300%2B%2B%2BUE4%2BRelease-4.27&UserID=cdfab68c41e4f1e0db155eba64119f73%7C982dba3afabb4774814e05da18d40d83%7C4b42fbee-d943-44f5-9fea-6a07f98709e4&AppEnvironment=datacollector-binary&UploadType=eteventstream
